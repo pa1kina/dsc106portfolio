@@ -1,62 +1,74 @@
 [
-    {
-        "title": "Test Project",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam excepturi\n          dolorum sequi iusto ea? Pariatur facere saepe beatae, minus nostrum,\n          natus, nam sunt quos molestiae veritatis voluptatibus. Voluptate,\n          nesciunt temporibus.\n        "
-    },
-    {
-        "title": "Explicabo commodi culpa optio?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Fugiat repudiandae quia quis quidem. Delectus provident ex totam\n          maiores, ullam, dolor consequatur magni accusamus ad quas voluptas\n          dicta eveniet iure praesentium? At in tempore iusto eum maiores, sequi\n          deleniti.\n        "
-    },
-    {
-        "title": "Est hic et quaerat!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Delectus accusamus, laborum iusto eum corporis natus. Vitae eveniet,\n          dolor assumenda provident, sed laudantium nemo in dolorum beatae\n          impedit earum natus officia, blanditiis doloremque nesciunt illo\n          molestias. Modi, libero deleniti.\n        "
-    },
-    {
-        "title": "Obcaecati cupiditate ipsa consequuntur?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Quam eum fuga ullam tenetur officiis possimus, praesentium distinctio\n          autem. Itaque suscipit consequuntur in. Distinctio provident similique\n          culpa dolorem, non molestias, minima labore neque cupiditate fuga, ex\n          libero exercitationem error.\n        "
-    },
-    {
-        "title": "Suscipit sed praesentium nulla!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Vero quibusdam consequuntur quam repudiandae aperiam tempore excepturi\n          nihil eligendi mollitia quia iste, harum eveniet magni, quisquam earum\n          nam ea corporis dolor blanditiis, voluptatum assumenda debitis?\n          Eligendi ex nostrum eos!\n        "
-    },
-    {
-        "title": "Architecto sint eligendi veritatis.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Voluptatem vel adipisci nostrum earum eum excepturi quae eligendi\n          doloribus possimus tenetur. Veritatis, nobis quidem eligendi, hic\n          quasi tempora nam itaque cum enim voluptatibus, nesciunt nostrum\n          laboriosam. Quae, officia eveniet?\n        "
-    },
-    {
-        "title": "Quas amet ipsa facilis!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Quasi dicta inventore illum, odit totam explicabo quas quidem sed\n          perspiciatis unde? Obcaecati, debitis culpa consectetur possimus sint\n          facilis omnis autem, dolor nobis dicta, excepturi ex laboriosam maxime\n          iste ea?\n        "
-    },
-    {
-        "title": "Quos illo omnis ad?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Distinctio velit deleniti, necessitatibus suscipit accusamus quam\n          aperiam modi porro, ipsa alias vero soluta facilis? Repudiandae, fuga\n          incidunt iure ipsum quos ipsam doloribus perspiciatis maxime, illum\n          recusandae itaque quo? Doloribus?\n        "
-    },
-    {
-        "title": "Unde minima explicabo at.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Voluptas perspiciatis veniam illo dolore assumenda necessitatibus\n          natus in modi quibusdam minus ipsa eum itaque unde dolores eaque\n          provident explicabo nihil voluptates temporibus amet incidunt dolorem,\n          adipisci blanditiis enim! Provident.\n        "
-    },
-    {
-        "title": "Tempora earum obcaecati debitis.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Suscipit delectus at perferendis culpa libero illo fugit beatae eaque\n          dolor corporis odit accusantium unde molestiae quia ab itaque veniam\n          pariatur laboriosam possimus placeat in, sed sequi blanditiis! Illo,\n          facilis.\n        "
-    },
-    {
-        "title": "Culpa repellendus quaerat dignissimos?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Nihil assumenda, quis quas et placeat nisi cupiditate dolor alias\n          quibusdam itaque ex sunt exercitationem cum perferendis, expedita\n          laudantium similique laborum illo numquam, asperiores dolores\n          doloribus at excepturi. Omnis, placeat!\n        "
-    },
-    {
-        "title": "Molestias temporibus consequuntur explicabo!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "\n          Commodi, perferendis earum eum veniam cupiditate est modi nemo\n          pariatur optio ea nisi dignissimos in. Optio deleniti hic asperiores\n          aut quia libero at, nesciunt consequatur nihil? Accusamus vero\n          voluptatem voluptas.\n        "
-    }
+  {
+    "title": "DSC 106 Lab 1 Portfolio Setup",
+    "year": "2024",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Built and deployed the first version of my portfolio website with clean semantic HTML and shared styling."
+  },
+  {
+    "title": "DSC 106 Lab 2 Projects Gallery",
+    "year": "2024",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Designed a responsive projects layout using CSS Grid and reusable card styles for project summaries."
+  },
+  {
+    "title": "DSC 106 Lab 3 Resume Page",
+    "year": "2024",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Created a resume page with sections for experience, skills, and education using consistent typography."
+  },
+  {
+    "title": "Python Data Cleaning Practice",
+    "year": "2023",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Used pandas to clean missing values, standardize categories, and prepare a small dataset for analysis."
+  },
+  {
+    "title": "Campus Club Event Dashboard",
+    "year": "2025",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Drafted an interactive dashboard concept to track attendance trends and event engagement over time."
+  },
+  {
+    "title": "ICAM Poster Design Study",
+    "year": "2022",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Produced a visual communication poster exploring hierarchy, alignment, and color contrast principles."
+  },
+  {
+    "title": "Data Storytelling Mini Project",
+    "year": "2025",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Combined narrative text and charts to communicate key trends from a public social data source."
+  },
+  {
+    "title": "SQL Query Practice Collection",
+    "year": "2023",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Wrote and tested SQL queries covering joins, aggregations, and filtering for class practice exercises."
+  },
+  {
+    "title": "Intro Machine Learning Notebook",
+    "year": "2025",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Trained baseline classification models and compared accuracy to understand model evaluation basics."
+  },
+  {
+    "title": "Creative Coding Motion Sketch",
+    "year": "2022",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Experimented with generative shapes and animation timing to create a short visual motion study."
+  },
+  {
+    "title": "Personal Expense Tracker Prototype",
+    "year": "2024",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Built a lightweight prototype to track monthly spending categories and summarize budget patterns."
+  },
+  {
+    "title": "Community Data Research Draft",
+    "year": "2026",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Prepared an early research draft focused on community indicators with notes for future visualization."
+  }
 ]

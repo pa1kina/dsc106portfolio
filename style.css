@@ -95,6 +95,7 @@ textarea, select {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(15em, 1fr));
   gap: 1em;
+  margin-bottom: 2rem;
 }
 
 article {
@@ -103,6 +104,34 @@ article {
 }
 
 article h2 {
+  margin: 0;
+}
+
+#profile-stats {
+  border: 1px solid oklch(80% 3% 200);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+#profile-stats h2 {
+  margin-top: 0;
+}
+
+#profile-stats dl {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.5rem 1rem;
+  margin: 0;
+}
+
+#profile-stats dt {
+  grid-row: 1;
+  font-weight: 600;
+}
+
+#profile-stats dd {
+  grid-row: 2;
   margin: 0;
 }
 
