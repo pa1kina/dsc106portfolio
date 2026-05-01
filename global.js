@@ -105,7 +105,10 @@ export function renderProjects(projects, containerElement, headingLevel = "h2") 
     article.innerHTML = `
       <${validHeading}>${project.title ?? "Untitled Project"}</${validHeading}>
       <img src="${project.image ?? "https://dsc106.com/labs/lab02/images/empty.svg"}" alt="${project.title ?? "Project image"}">
-      <p>${project.description ?? "Description coming soon."}</p>
+      <div>
+        <p>${project.description ?? "Description coming soon."}</p>
+        <p>${project.year ?? "No year specified"}</p>
+      </div>
     `;
 
     containerElement.appendChild(article);
